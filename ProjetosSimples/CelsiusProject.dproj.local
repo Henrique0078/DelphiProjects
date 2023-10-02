@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/26 11:20:28.000.953,=C:\Users\usuario027\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/18 15:38:14.000.004,=C:\Users\usuario027\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/18 15:44:50.000.408,=C:\Users\usuario027\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/19 09:00:46.799,=C:\Users\usuario027\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/19 09:21:02.020,C:\Users\usuario027\Desktop\Aprendendo\CalcCelsius.dfm=C:\Users\usuario027\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/09/19 09:21:02.020,C:\Users\usuario027\Desktop\Aprendendo\CalcCelsius.pas=C:\Users\usuario027\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/19 10:08:28.295,C:\Users\usuario027\Desktop\Aprendendo\CelsiusProject.dproj=C:\Users\usuario027\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

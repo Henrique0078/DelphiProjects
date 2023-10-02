@@ -1,0 +1,16 @@
+program PrimeiroProjeto;
+
+uses
+  Vcl.Forms,
+  Teste in 'Teste.pas' {Soma},
+  Unit1 in 'Unit1.pas' {Celsius};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TSoma, Soma);
+  Application.CreateForm(TCelsius, Celsius);
+  Application.Run;
+end.
